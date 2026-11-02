@@ -1,4 +1,4 @@
 # apnaTemp
 this is temp repo
 <br>
-Author Name - Prime Ch
+Author Name - Prime C
